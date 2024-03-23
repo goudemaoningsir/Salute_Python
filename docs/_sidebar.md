@@ -6,3 +6,10 @@
   * [Anaconda安装配置](sections/chapters1/4.anaconda.md)
   * [Pycharm使用](sections/chapters1/5.pycharm.md)
   * [VsCode使用](sections/chapters1/6.vscode.md)
+* **章节二: Python基础**
+  * [基本语法](sections/chapters2/1.基本语法.md) 
+  * [变量](sections/chapters2/2.变量.md) 
+  * [运算符](sections/chapters2/3.运算符.md) 
+  * [逻辑控制](sections/chapters2/4.逻辑控制.md) 
+  * [数据类型](sections/chapters2/5.数据类型.md) 
+  * [异常处理](sections/chapters2/6.异常处理.md) 
