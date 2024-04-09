@@ -18,8 +18,6 @@ print(lots_of_laugh)  # "hahaha"
 text = "Hello, World!"
 first_char = text[0]
 print(first_char)  # 'H'
-slice_text = text[7:12]
-print(slice_text)  # 'World'
 ### [qp]
 
 ### [ct]
