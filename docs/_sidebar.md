@@ -13,6 +13,7 @@
   - [逻辑控制](sections/chapters2/4.逻辑控制.md)
   - [数据类型](sections/chapters2/5.数据类型.md)
   - [函数](sections/chapters2/6.函数.md)
+  - [迭代器、生成器](sections/chapters2/12.迭代器.md)
   - **模块**
     - [概述](sections/chapters2/7.模块/1.summary.md)
     - [json](sections/chapters2/7.模块/2.json.md)
@@ -26,28 +27,36 @@
   - [文件](sections/chapters2/8.文件.md)
   - [异常处理](sections/chapters2/9.异常处理.md)
   - [面向对象](sections/chapters2/10.面向对象.md)
-  - [多任务](sections/chapters2/11.多任务.md)
+  - **多任务**
+    - [概述](sections/chapters2/11.多任务/1.概述.md)
+    - [进程](sections/chapters2/11.多任务/2.进程.md)
+    - [线程](sections/chapters2/11.多任务/3.线程.md)
+    - [协程](sections/chapters2/11.多任务/4.协程.md)
 - **章节三: Django**
-
   - [概述](sections/chapters3/1.概述.md)
+  - [安装配置](sections/chapters3/2.安装配置.md)
+  - [模型与数据库](sections/chapters3/3.模型与数据库.md)
+  - [表单和验证](sections/chapters3/4.表单和验证.md)
+  - [用户认证和授权](sections/chapters3/5.用户认证和授权.md)
+  - [中间件](sections/chapters3/6.中间件.md)
+  - [缓存](sections/chapters3/7.缓存.md)
+  - [测试](sections/chapters3/8.测试.md)
+  - [部署](sections/chapters3/9.部署.md)
+  - [扩展](sections/chapters3/10.扩展.md)
+  - [请求和响应](sections/chapters3/11.请求和响应.md)
+  - [模板和视图](sections/chapters3/12.模板和视图.md)
 - **章节四: 网络编程**
 
   - [概述](sections/chapters4/1.概述.md)
 - **章节五: 爬虫**
-
   - [概述](sections/chapters5/1.概述.md)
+  - [urllib](sections/chapters5/2.urllib.md)
+  - [requests](sections/chapters5/3.requests.md)
+  - [xpath和lxml](sections/chapters5/4.xpathandlxml.md)
+  - [BeautifulSoup4](sections/chapters5/5.BeautifulSoup4.md)
+  - [Scrapy](sections/chapters5/6.scrapy.md)
 - **章节六: Fastapi**
-
-  - [概述](sections/chapters6/1.概述.md)
+- [概述](sections/chapters6/1.概述.md)
 - **章节七: 算法**
 
   - [概述](sections/chapters7/1.概述.md)
-- **章节八: 机器学习**
-
-  - [概述](sections/chapters8/1.概述.md)
-- **章节九: 深度学习**
-
-  - [概述](sections/chapters9/1.概述.md)
-- **章节十: LLMS**
-  - [概述](sections/chapters10/1.概述.md)
-  - [chatgpt](sections/chapters10/2.openai/1.chatgpt.md)
