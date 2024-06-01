@@ -58,5 +58,11 @@
 - **章节六: Fastapi**
 - [概述](sections/chapters6/1.概述.md)
 - **章节七: 算法**
-
   - [概述](sections/chapters7/1.概述.md)
+  - [迭代与递归](sections/chapters7/2.迭代与递归.md)
+
+- **章节八: 科学计算库**
+  - [Matplotlib](sections/chapters8/1.matplotlib.md)
+  - [Numpy](sections/chapters8/2.numpy.md)
+  - [Pandas](sections/chapters8/3.pandas.md)
+
