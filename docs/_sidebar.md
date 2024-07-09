@@ -1,13 +1,14 @@
 - [首页](README.md)
-- **章节一: Python 概述**
-  - [简介](sections/chapters1/1.summary.md)
-  - [Python 安装配置](sections/chapters1/2.python_install.md)
-  - [Pip 安装配置](sections/chapters1/3.pip.md)
-  - [Anaconda 安装配置](sections/chapters1/4.anaconda.md)
-  - [Pycharm 使用](sections/chapters1/5.pycharm.md)
-  - [VsCode 使用](sections/chapters1/6.vscode.md)
-- **章节二: Python 基础**
-  - [基本语法](sections/chapters2/1.基本语法.md)
+- **第一章：Python 基础**
+  - [Pip 安装配置](sections/基础/pip.md)
+  - **PyCharm使用**
+    - [安装破解](sections/基础/pycharm/安装破解.md)
+    - [调试运行](sections/基础/pycharm/调试运行.md)
+    - [删除终端连接记录](sections/基础/pycharm/temp.md)
+    - [文件显示在多行tab](sections/基础/pycharm/多行展示.md)
+    - [快捷键](sections/基础/pycharm/快捷键.md)
+  - [基础语法](sections/基础/基础语法.md)
+- **Python 基础**
   - [变量](sections/chapters2/2.变量.md)
   - [运算符](sections/chapters2/3.运算符.md)
   - [逻辑控制](sections/chapters2/4.逻辑控制.md)
@@ -16,14 +17,20 @@
   - [迭代器、生成器](sections/chapters2/12.迭代器.md)
   - **模块**
     - [概述](sections/chapters2/7.模块/1.summary.md)
-    - [json](sections/chapters2/7.模块/2.json.md)
-    - [argparse](sections/chapters2/7.模块/3.argparse.md)
-    - [re](sections/chapters2/7.模块/4.re.md)
-    - [logging](sections/chapters2/7.模块/5.logging.md)
-    - [retry](sections/chapters2/7.模块/6.retry.md)
-    - [sys](sections/chapters2/7.模块/7.sys.md)
-    - [time](sections/chapters2/7.模块/8.time.md)
-    - [os](sections/chapters2/7.模块/9.os.md)
+    - **标准库模块**
+      - [json](sections/chapters2/7.模块/2.json.md)
+      - [argparse](sections/chapters2/7.模块/3.argparse.md)
+      - [re](sections/chapters2/7.模块/4.re.md)
+      - [logging](sections/chapters2/7.模块/5.logging.md)
+      - [sys](sections/chapters2/7.模块/7.sys.md)
+      - [time](sections/chapters2/7.模块/8.time.md)
+      - [os](sections/chapters2/7.模块/9.os.md)
+    - **第三方库模块**
+      - [retry](sections/chapters2/7.模块/6.retry.md)
+    - **科学计算和数据分析模块**
+      - [Matplotlib](sections/chapters8/1.matplotlib.md)
+      - [Numpy](sections/chapters8/2.numpy.md)
+      - [Pandas](sections/chapters8/3.pandas.md)
   - [文件](sections/chapters2/8.文件.md)
   - [异常处理](sections/chapters2/9.异常处理.md)
   - [面向对象](sections/chapters2/10.面向对象.md)
@@ -46,8 +53,7 @@
   - [请求和响应](sections/chapters3/11.请求和响应.md)
   - [模板和视图](sections/chapters3/12.模板和视图.md)
 - **章节四: 网络编程**
-
-  - [概述](sections/chapters4/1.概述.md)
+- [概述](sections/chapters4/1.概述.md)
 - **章节五: 爬虫**
   - [概述](sections/chapters5/1.概述.md)
   - [urllib](sections/chapters5/2.urllib.md)
@@ -56,13 +62,4 @@
   - [BeautifulSoup4](sections/chapters5/5.BeautifulSoup4.md)
   - [Scrapy](sections/chapters5/6.scrapy.md)
 - **章节六: Fastapi**
-- [概述](sections/chapters6/1.概述.md)
-- **章节七: 算法**
-  - [概述](sections/chapters7/1.概述.md)
-  - [迭代与递归](sections/chapters7/2.迭代与递归.md)
-
-- **章节八: 科学计算库**
-  - [Matplotlib](sections/chapters8/1.matplotlib.md)
-  - [Numpy](sections/chapters8/2.numpy.md)
-  - [Pandas](sections/chapters8/3.pandas.md)
-
+  - [概述](sections/chapters6/1.概述.md)
