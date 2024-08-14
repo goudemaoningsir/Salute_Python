@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/goudemaoningsir/Salute_Python/main/img/1.jpg" width = "250" alt="Salute_Python" align=center />
+<img src="https://raw.githubusercontent.com/goudemaoningsir/Salute_Python/main/docs/images/1.jpg" width = "250" alt="Salute_Python" align=center />
 
 <h1><B>Python - 从入门到跑路 | 🚴‍♂️ </B></h1>
 
