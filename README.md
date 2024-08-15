@@ -1,11 +1,12 @@
 <div align="center">
   <a href="https://github.com/goudemaoningsir/Salute_Python">
-    <img src="https://raw.githubusercontent.com/goudemaoningsir/Salute_Python/main/docs/images/1.jpg" height="400">
+    <img src="https://raw.githubusercontent.com/goudemaoningsir/Salute_Python/main/docs/img/1.jpg" height="400">
   </a>
   <h1>Python - Beginner Runaway | 🚴‍♂️</h1>
   <img src="https://img.shields.io/github/repo-size/goudemaoningsir/Salute_Python.svg?label=Repo%20size&style=flat-square" height="20">
   <img src="https://img.shields.io/badge/License-Apache%202.0-purple" data-origin="https://img.shields.io/badge/License-Apache%202.0-blue" alt="">
 </div>
+
 
 
 
