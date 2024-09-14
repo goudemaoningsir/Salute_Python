@@ -1,10 +1,14 @@
 # 首页
 
+[Python 3.12官网](https://docs.python.org/zh-cn/3/index.html) 
+
 
 
 ## 介绍
 
-?> Python 学习笔记
+> [!NOTE]
+>
+> Python 3.12 学习笔记
 
 
 
