@@ -8,7 +8,6 @@
 ------
 
 
-
 - **第二部分：数据类型**
   - [变量](sections/2.数据类型/变量.md)
 
@@ -36,11 +35,16 @@
     - [迭代器](sections/2.数据类型/数据操作/迭代器.md)
     - [生成器](sections/2.数据类型/数据操作/生成器.md)
 
+------
+
 - **第三部分：流程控制**
 
   - [条件语句](sections/3.流程控制/条件语句.md)
   - [循环语句](sections/3.流程控制/循环语句.md)
   - [注意事项](sections/3.流程控制/注意事项.md)
+
+------
+
 - **第四部分：函数模块**
   - **函数**
     - [函数基础](sections/4.函数模块/函数/函数基础.md)
@@ -63,24 +67,42 @@
       - [Matplotlib](sections/chapters8/1.matplotlib.md)
       - [Numpy](sections/chapters8/2.numpy.md)
       - [Pandas](sections/chapters8/3.pandas.md)
+
+------
+
 - **第五部分：异常处理**
   - [异常基础](sections/5.异常处理/异常基础.md)
   - [assert](sections/5.异常处理/assert.md)
+
+------
+
 - **第六部分：面向对象**
 
   - [类和对象](sections/6.面向对象/类和对象.md)
   - [封装](sections/6.面向对象/封装.md)
   - [继承](sections/6.面向对象/继承.md)
   - [多态](sections/6.面向对象/多态.md)
+
+------
+
 - **第七部分：文件处理**
   - [文件处理基础](sections/7.文件处理/文件处理基础.md)
+
+------
+
 - **第八部分：多任务编程**
   - [概述](sections/8.多任务编程/概述.md)
   - [进程](sections/8.多任务编程/进程.md)
   - [线程](sections/8.多任务编程/线程.md)
   - [携程](sections/8.多任务编程/携程.md)
+
+------
+
 - **第九部分：网络编程**
   - [概述](sections/9.网络编程/概述.md)
+
+------
+
 - **第十部分：Web框架**
   - Django
     - [概述](sections/chapters3/1.概述.md)
@@ -97,6 +119,9 @@
     - [模板和视图](sections/chapters3/12.模板和视图.md)
   - Fastapi
     - [概述](sections/chapters6/1.概述.md)
+
+------
+
 - **第十一部分：爬虫**
 
   - [概述](sections/chapters5/1.概述.md)
@@ -105,6 +130,9 @@
   - [xpath和lxml](sections/chapters5/4.xpathandlxml.md)
   - [BeautifulSoup4](sections/chapters5/5.BeautifulSoup4.md)
   - [Scrapy](sections/chapters5/6.scrapy.md)
+
+------
+
 - **第十二部分：开发工具**
   - **PyCharm**
     - [安装破解](sections/12.开发工具/pycharm/安装破解.md)
